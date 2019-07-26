@@ -1,0 +1,472 @@
+HolidayDate,Date,Holiday,Num,HolidayFlag,DayofWeek
+12/31/10,12/30/10,New Year's Day,1,1,6
+1/17/11,1/16/11,"Birthday of Martin Luther King, Jr.",2,1,2
+2/21/11,2/20/11,President's Day,2,1,2
+4/22/11,4/21/11,Good Friday,6,1,6
+5/30/11,5/29/11,Memorial Day,2,1,2
+7/4/11,7/3/11,Independence Day,2,1,2
+9/5/11,9/4/11,Labor Day,2,1,2
+11/24/11,11/23/11,Thanksgiving Day,5,1,5
+12/26/11,12/25/11,Christmas Day,2,1,2
+1/2/12,1/1/12,New Year's Day,2,1,2
+1/16/12,1/15/12,"Birthday of Martin Luther King, Jr.",2,1,2
+2/20/12,2/19/12,President's Day,2,1,2
+4/6/12,4/5/12,Good Friday,6,1,6
+5/28/12,5/27/12,Memorial Day,2,1,2
+7/4/12,7/3/12,Independence Day,4,1,4
+9/3/12,9/2/12,Labor Day,2,1,2
+11/22/12,11/21/12,Thanksgiving Day,5,1,5
+12/25/12,12/24/12,Christmas Day,3,1,3
+1/1/13,12/31/12,New Year's Day,3,1,3
+1/21/13,1/20/13,"Birthday of Martin Luther King, Jr.",2,1,2
+2/18/13,2/17/13,President's Day,2,1,2
+4/29/13,4/28/13,Good Friday,2,1,2
+5/27/13,5/26/13,Memorial Day,2,1,2
+7/4/13,7/3/13,Independence Day,5,1,5
+9/2/13,9/1/13,Labor Day,2,1,2
+11/28/13,11/27/13,Thanksgiving Day,5,1,5
+12/25/13,12/24/13,Christmas Day,4,1,4
+1/1/14,12/31/13,New Year's Day,4,1,4
+1/20/14,1/19/14,"Birthday of Martin Luther King, Jr.",2,1,2
+2/17/14,2/16/14,President's Day,2,1,2
+4/18/14,4/17/14,Good Friday,6,1,6
+5/26/14,5/25/14,Memorial Day,2,1,2
+7/4/14,7/3/14,Independence Day,6,1,6
+9/1/14,8/31/14,Labor Day,2,1,2
+11/27/14,11/26/14,Thanksgiving Day,5,1,5
+12/25/14,12/24/14,Christmas Day,5,1,5
+1/1/15,12/31/14,New Year's Day,5,1,5
+1/19/15,1/18/15,"Birthday of Martin Luther King, Jr.",2,1,2
+2/16/15,2/15/15,President's Day,2,1,2
+4/3/15,4/2/15,Good Friday,6,1,6
+5/25/15,5/24/15,Memorial Day,2,1,2
+7/3/15,7/2/15,Independence Day,6,1,6
+9/7/15,9/6/15,Labor Day,2,1,2
+11/26/15,11/25/15,Thanksgiving Day,5,1,5
+12/25/15,12/24/15,Christmas Day,6,1,6
+1/1/16,12/31/15,New Year's Day,6,1,6
+1/18/16,1/17/16,"Birthday of Martin Luther King, Jr.",2,1,2
+2/15/16,2/14/16,President's Day,2,1,2
+4/25/16,4/24/16,Good Friday,2,1,2
+5/30/16,5/29/16,Memorial Day,2,1,2
+7/4/16,7/3/16,Independence Day,2,1,2
+9/5/16,9/4/16,Labor Day,2,1,2
+11/24/16,11/23/16,Thanksgiving Day,5,1,5
+12/26/16,12/25/16,Christmas Day,2,1,2
+1/2/17,1/1/17,New Year's Day,2,1,2
+1/16/17,1/15/17,"Birthday of Martin Luther King, Jr.",2,1,2
+2/20/17,2/19/17,President's Day,2,1,2
+4/14/17,4/13/17,Good Friday,6,1,6
+5/29/17,5/28/17,Memorial Day,2,1,2
+7/4/17,7/3/17,Independence Day,3,1,3
+9/4/17,9/3/17,Labor Day,2,1,2
+11/23/17,11/22/17,Thanksgiving Day,5,1,5
+12/25/17,12/24/17,Christmas Day,2,1,2
+1/1/18,12/31/17,New Year's Day,2,1,2
+1/15/18,1/14/18,"Birthday of Martin Luther King, Jr.",2,1,2
+2/19/18,2/18/18,President's Day,2,1,2
+4/30/18,4/29/18,Good Friday,2,1,2
+5/28/18,5/27/18,Memorial Day,2,1,2
+7/4/18,7/3/18,Independence Day,4,1,4
+9/3/18,9/2/18,Labor Day,2,1,2
+11/22/18,11/21/18,Thanksgiving Day,5,1,5
+12/25/18,12/24/18,Christmas Day,3,1,3
+1/1/19,12/31/18,New Year's Day,3,1,3
+1/21/19,1/20/19,"Birthday of Martin Luther King, Jr.",2,1,2
+2/18/19,2/17/19,President's Day,2,1,2
+4/19/19,4/18/19,Good Friday,6,1,6
+5/27/19,5/26/19,Memorial Day,2,1,2
+7/4/19,7/3/19,Independence Day,5,1,5
+9/2/19,9/1/19,Labor Day,2,1,2
+11/28/19,11/27/19,Thanksgiving Day,5,1,5
+12/25/19,12/24/19,Christmas Day,4,1,4
+1/1/20,12/31/19,New Year's Day,4,1,4
+1/20/20,1/19/20,"Birthday of Martin Luther King, Jr.",2,1,2
+2/17/20,2/16/20,President's Day,2,1,2
+4/10/20,4/9/20,Good Friday,6,1,6
+5/25/20,5/24/20,Memorial Day,2,1,2
+7/4/20,7/3/20,Independence Day,7,1,7
+9/7/20,9/6/20,Labor Day,2,1,2
+11/26/20,11/25/20,Thanksgiving Day,5,1,5
+12/25/20,12/24/20,Christmas Day,6,1,6
+1/1/10,12/31/09,New Years Day,6,1,6
+1/18/10,1/17/10,"Martin Luther King, Jr. Day",2,1,2
+4/2/10,4/1/10,Good Friday,6,1,6
+2/15/10,2/14/10,President's Day,2,1,2
+5/31/10,5/30/10,Memorial Day,2,1,2
+7/5/10,7/4/10,Independence Day,2,1,2
+9/6/10,9/5/10,Labor Day,2,1,2
+11/25/10,11/24/10,Thanksgiving Day,5,1,5
+12/25/10,12/24/10,Christmas Day,7,1,7
+1/1/09,12/31/08,New Years Day,5,1,5
+1/19/09,1/18/09,"Martin Luther King, Jr. Day",2,1,2
+2/16/09,2/15/09,President's Day,2,1,2
+4/10/09,4/9/09,Good Friday,6,1,6
+5/25/09,5/24/09,Memorial Day,2,1,2
+7/3/09,7/2/09,Independence Day,6,1,6
+9/7/09,9/6/09,Labor Day,2,1,2
+11/26/09,11/25/09,Thanksgiving Day,5,1,5
+12/25/09,12/24/09,Christmas Day,6,1,6
+1/1/08,12/31/07,New Years Day,3,1,3
+1/21/08,1/20/08,"Martin Luther King, Jr. Day",2,1,2
+2/18/08,2/17/08,President's Day,2,1,2
+4/21/08,4/20/08,Good Friday,2,1,2
+5/26/08,5/25/08,Memorial Day,2,1,2
+7/4/08,7/3/08,Independence Day,6,1,6
+9/1/08,8/31/08,Labor Day,2,1,2
+11/27/08,11/26/08,Thanksgiving Day,5,1,5
+12/25/08,12/24/08,Christmas Day,5,1,5
+1/1/07,12/31/06,New Years Day,2,1,2
+1/2/07,1/1/07,Day Of Mourning -Gerald Ford,3,1,3
+1/15/07,1/14/07,"Martin Luther King, Jr. Day",2,1,2
+2/19/07,2/18/07,President's Day,2,1,2
+4/6/07,4/5/07,Good Friday,6,1,6
+5/28/07,5/27/07,Memorial Day,2,1,2
+7/4/07,7/3/07,Independence Day,4,1,4
+9/3/07,9/2/07,Labor Day,2,1,2
+11/22/07,11/21/07,Thanksgiving Day,5,1,5
+12/25/07,12/24/07,Christmas Day,3,1,3
+1/1/06,12/31/05,New Years Day,1,1,1
+1/16/06,1/15/06,"Martin Luther King, Jr. Day",2,1,2
+2/20/06,2/19/06,President's Day,2,1,2
+4/14/06,4/13/06,Good Friday,6,1,6
+5/29/06,5/28/06,Memorial Day,2,1,2
+7/4/06,7/3/06,Independence Day,3,1,3
+9/4/06,9/3/06,Labor Day,2,1,2
+11/23/06,11/22/06,Thanksgiving Day,5,1,5
+12/25/06,12/24/06,Christmas Day,2,1,2
+1/1/05,12/31/04,New Years Day,7,1,7
+1/17/05,1/16/05,"Martin Luther King, Jr. Day",2,1,2
+2/21/05,2/20/05,President's Day,2,1,2
+4/25/05,4/24/05,Good Friday,2,1,2
+5/30/05,5/29/05,Memorial Day,2,1,2
+7/4/05,7/3/05,Independence Day,2,1,2
+9/5/05,9/4/05,Labor Day,2,1,2
+11/24/05,11/23/05,Thanksgiving Day,5,1,5
+12/25/05,12/24/05,Christmas Day,1,1,1
+1/1/04,12/31/03,New Years Day,5,1,5
+1/19/04,1/18/04,"Martin Luther King, Jr. Day",2,1,2
+2/16/04,2/15/04,President's Day,2,1,2
+4/9/04,4/8/04,Good Friday,6,1,6
+5/31/04,5/30/04,Memorial Day,2,1,2
+6/11/04,6/10/04,Presidential Funeral - Reagan,6,1,6
+7/4/04,7/3/04,Independence Day,1,1,1
+9/6/04,9/5/04,Labor Day,2,1,2
+11/25/04,11/24/04,Thanksgiving Day,5,1,5
+12/25/04,12/24/04,Christmas Day,7,1,7
+1/1/03,12/31/02,New Years Day,4,1,4
+1/20/03,1/19/03,"Martin Luther King, Jr. Day",2,1,2
+2/17/03,2/16/03,President's Day,2,1,2
+4/18/03,4/17/03,Good Friday,6,1,6
+5/26/03,5/25/03,Memorial Day,2,1,2
+7/4/03,7/3/03,Independence Day,6,1,6
+9/1/03,8/31/03,Labor Day,2,1,2
+11/27/03,11/26/03,Thanksgiving Day,5,1,5
+12/25/03,12/24/03,Christmas Day,5,1,5
+1/1/02,12/31/01,New Years Day,3,1,3
+1/21/02,1/20/02,"Martin Luther King, Jr. Day",2,1,2
+2/18/02,2/17/02,President's Day,2,1,2
+4/29/02,4/28/02,Good Friday,2,1,2
+5/27/02,5/26/02,Memorial Day,2,1,2
+7/4/02,7/3/02,Independence Day,5,1,5
+9/2/02,9/1/02,Labor Day,2,1,2
+11/28/02,11/27/02,Thanksgiving Day,5,1,5
+12/25/02,12/24/02,Christmas Day,4,1,4
+1/1/01,12/31/00,New Years Day,2,1,2
+1/15/01,1/14/01,"Martin Luther King, Jr. Day",2,1,2
+2/19/01,2/18/01,President's Day,2,1,2
+4/13/01,4/12/01,Good Friday,6,1,6
+5/28/01,5/27/01,Memorial Day,2,1,2
+7/4/01,7/3/01,Independence Day,4,1,4
+9/3/01,9/2/01,Labor Day,2,1,2
+11/11/01,11/10/01,Veterans Day(World Trade Center Day),1,1,1
+11/12/01,11/11/01,(World Trade Center Day),2,1,2
+11/13/01,11/12/01,(World Trade Center Day),3,1,3
+11/14/01,11/13/01,(World Trade Center Day),4,1,4
+11/22/01,11/21/01,Thanksgiving Day,5,1,5
+12/25/01,12/24/01,Christmas Day,3,1,3
+1/1/00,12/31/99,New Years Day,7,1,7
+1/17/00,1/16/00,"Martin Luther King, Jr. Day",2,1,2
+2/21/00,2/20/00,President's Day,2,1,2
+4/21/00,4/20/00,Good Friday,6,1,6
+5/29/00,5/28/00,Memorial Day,2,1,2
+7/4/00,7/3/00,Independence Day,3,1,3
+9/4/00,9/3/00,Labor Day,2,1,2
+11/23/00,11/22/00,Thanksgiving Day,5,1,5
+12/25/00,12/24/00,Christmas Day,2,1,2
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+12/26/05,,Christmas Day,,,
