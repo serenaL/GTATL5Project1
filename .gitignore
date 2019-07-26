@@ -1,4 +1,5 @@
-# Byte-compiled / optimized / DLL files
+NEWTESTENEWTEST# Byte-compiled / optimized / DLL files
+hwhw# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
@@ -102,4 +103,4 @@ venv.bak/
 
 # mypy
 .mypy_cache/
-*CHANGE CHANGE TEST TEST
+
