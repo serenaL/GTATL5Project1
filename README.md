@@ -1,6 +1,3 @@
 # GTATL5Project1
-We want to explore whether holidays and weekends impact stock market trends.  How does this differ across industries? 
-
-Added test
-It does varies. Hello world!
-Another comment
+H0 - Stock price change between closing price on Thursday of previous week and closing price on Monday is statistically insignifact in comparison to price change between Monday and Thurday. 
+How does this differ across industries?
